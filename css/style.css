@@ -10,7 +10,7 @@ html,body{
     overflow-x: hidden;
 }
 body::-webkit-scrollbar{
-    width: 5px;
+    width: 3px;
 }
 body::-webkit-scrollbar-thumb{
     background-color: #f2f2f2;
