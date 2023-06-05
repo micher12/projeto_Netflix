@@ -154,7 +154,7 @@ $(function(){
                     automatizar()
                     $('.slidepicture').css('background-image',url)
                     var valor = $('.destaqueContent').find('.epsingle').eq(11).find('.slidepicture');
-                    valor.css("background-image","url(../img/foto1.png)") //mudar imagem ep1
+                    valor.css("background-image","url(./img/foto1.png)") //mudar imagem ep1
                     
                 }else if(classe === 'singleslider __7'){
                     //Stranger Things
